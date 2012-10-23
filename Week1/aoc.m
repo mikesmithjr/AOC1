@@ -6,7 +6,7 @@
 
 //Global Variables
 var planeNames = ["Super Cub", "Extra 300", "The Beast"];
-var	maxFlightQtyPerPilot = [3];
+var	maxFlightQtyPerPilot = 3;
 var	weatherCondition = "Good";
 var	planeStatus = "Loaded";
 var pilotsNames = ["Joaquin", "Al", "Gary"];
