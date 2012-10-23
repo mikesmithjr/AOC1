@@ -1,4 +1,4 @@
-// Assignment: Project 3 SDI Online
+// Assignment: Week 1 AOC1
 // Author: Michael Smith
 // Story: Flying an Radio-Controlled Airplane
 
