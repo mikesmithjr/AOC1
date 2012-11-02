@@ -120,7 +120,6 @@
         {
             [list insertString:(@"%@", [itemList objectAtIndex:i])  atIndex:0];
         }
-        NSLog(@"%@", list);
         label9.backgroundColor = [UIColor colorWithRed:0.216 green:0.651 blue:0.608 alpha:1];
         label9.text = (@"%@", list);
         label9.textAlignment = NSTextAlignmentCenter;
